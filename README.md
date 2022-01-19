@@ -1,4 +1,4 @@
-Charming executioner game.
+Charming hangman game.
 
 ---------------------------
 
